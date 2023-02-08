@@ -1,0 +1,30 @@
+h1 {
+    font-size: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+html {
+    background-color: beige;
+}
+
+ul {
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+  
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    max-width: 33%;
+   
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
